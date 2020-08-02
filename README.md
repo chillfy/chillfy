@@ -5,7 +5,7 @@
 - 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
 
 
-![image](https://github.com/chillfy/chillfy/blob/master/somewhere.jpg) 
+<img src='somewhere.jpg' height="500"/>
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
