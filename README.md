@@ -2,7 +2,10 @@
 
 - 🔑🐦 Kii Karasuma (烏丸稀衣)
 - ✒️ I'm writing Science Fiction and Lofi Hiphop
-- 🌱 Web project: Series A (Fragments) and Series B (Essays)
+- 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
+
+
+![image](https://github.com/chillfy/chillfy/somewhere.jpg) 
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
