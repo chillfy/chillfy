@@ -4,6 +4,8 @@
 - ✒️ I'm writing Science Fiction and Lofi Hiphop
 - 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
 
+日本語で文章をかいています。
+
 </p>
 
 </p>
