@@ -1,4 +1,7 @@
-### Hi there 👋
+### Chill and science fiction (chillfy)
+
+- ✒️ I'm writing Science Fiction and Lofi Hiphop
+- 🌱 Web project: Series A (Fragments) and Series B (Essays)
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
