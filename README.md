@@ -4,8 +4,13 @@
 - ✒️ I'm writing Science Fiction and Lofi Hiphop
 - 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
 
+</p>
 
-<img src='somewhere.jpg' height="500"/>
+</p>
+
+somewhere in the timeline
+
+<img src='somewhere.jpg' height="300"/>
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
