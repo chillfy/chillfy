@@ -1,5 +1,6 @@
-### Chill and science fiction (chillfy)
+### Chill and science fiction
 
+- 🔑🐦 Kii Karasuma (烏丸稀衣)
 - ✒️ I'm writing Science Fiction and Lofi Hiphop
 - 🌱 Web project: Series A (Fragments) and Series B (Essays)
 
