@@ -10,7 +10,7 @@
 
 somewhere in the timeline
 
-<img src='somewhere.jpg' height="300"/>
+![image](https://github.com/chillfy/chillfy/master/somewhere.jpg = 200x200) 
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
