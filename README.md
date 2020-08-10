@@ -13,7 +13,7 @@
 
 <img src='https://github.com/chillfy/chillfy/blob/master/somewhere.jpg' height="250" />
 
-somewhere in the timeline
+somewhere between the past and the future
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
