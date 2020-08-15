@@ -1,10 +1,10 @@
 ### Chill and science fiction
 
-- 🔑🐦 Kii Karasuma (烏丸稀衣)
+- 🐦 Kii Karasuma (烏丸稀衣)
 - ✒️ I'm writing science fiction and lofi hiphop
 - 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
 
-日本語で文章をかいています。
+未来のチルな物語を書いています。
 
 </p>
 
