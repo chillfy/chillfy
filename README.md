@@ -2,7 +2,7 @@
 
 - 🐦 My name is: Kii Karasuma (烏丸稀衣)
 - ✒️ I'm writing science fiction and lofi hiphop
-- 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and [Series B (Essays)](https://github.com/chillfy/essays)
+- 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and Series B (Essays)
 - ☕ 未来のチルな物語を書いています。
 
 <!--
