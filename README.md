@@ -1,9 +1,9 @@
 ### chill and science fiction
 
-- 🐦 My name is: Kii Karasuma (烏丸稀衣)
-- ✒️ I'm writing science fiction and lofi hiphop
-- 🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and Series B (Essays)
-- ☕ 未来のチルな物語を書いています。
+🐦 My name is: Kii Karasuma (烏丸稀衣)<br/>
+✒️ I'm writing science fiction and lofi hiphop<br/>
+🌱 Web project: [Series A (Fragments)](https://github.com/chillfy/fragments) and Series B (Essays)<br/>
+☕ 未来のチルな物語を書いています。
 
 <!--
 **chillfy/chillfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
